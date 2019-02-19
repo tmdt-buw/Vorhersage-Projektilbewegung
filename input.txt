@@ -1,0 +1,6 @@
+Abschussgeschwindigkeit [m/s]: 18
+Abschusswinkel [Grad]: 80
+Masse [kg]: 17.60
+Durchmesser [m]: 0.18
+Graviation [m/s^2]: 9.81
+Höhe [m]: 0
